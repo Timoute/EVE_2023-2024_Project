@@ -75,6 +75,10 @@ Pour mettre une image :
 
 https://github.com/someone-eng/LeapMotion-remote-controlling-robot-hand
 
+MYOWare
+https://cdn.sparkfun.com/assets/learn_tutorials/1/9/5/6/MyoWare_v2_QuickStartGuide.pdf
+https://github.com/sparkfun/SparkFun_MyoWare_Code_Examples
+
 ## To Order
 - STM32 : https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32G474RET6?qs=PzGy0jfpSMvUBs7PMTDqlg%3D%3D&mgh=1&vip=1&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdp6-F5e4-ACCbXfp7QWk2OJl_ML0-fUJPXXJXP-bVWwRIPgl04Lvd4aAoJjEALw_wcB
 
