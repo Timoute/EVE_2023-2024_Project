@@ -66,6 +66,8 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - https://www.youtube.com/watch?v=xNSRmXKSI_4
 - https://fr.farnell.com/adafruit-industries/1361/accessory-type-conductive-sheet/dp/2419170?gclid=CjwKCAjwsKqoBhBPEiwALrrqiDeGaSW_4uc-rm59poSZfxalWY5j2dFrcLATg-_UMGxAqV16yRr28hoCB38QAvD_BwE&mckv=_dc|pcrid||plid||kword||match||slid||product|2419170|pgrid||ptaid||&CMP=KNC-GFR-GEN-SHOPPING-Catch-All-Geo-Split-Control-12-July-23&gross_price=true
 
+  video : https://www.youtube.com/watch?v=nHVNF83Se9k
+
 Pourquoi celui la ? 
 
 Pour mettre une image : 
