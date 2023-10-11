@@ -74,7 +74,7 @@ Pour mettre une image :
 https://github.com/someone-eng/LeapMotion-remote-controlling-robot-hand
 
 ## To Order
-- STM32 : https://www.st.com/en/microcontrollers-microprocessors/stm32l4x2.html
+- STM32 : https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32G474RET6?qs=PzGy0jfpSMvUBs7PMTDqlg%3D%3D&mgh=1&vip=1&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdp6-F5e4-ACCbXfp7QWk2OJl_ML0-fUJPXXJXP-bVWwRIPgl04Lvd4aAoJjEALw_wcB
 
 ### RS Component
 
