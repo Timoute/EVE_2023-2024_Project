@@ -88,3 +88,7 @@ https://microcontrollerslab.com/force-sensor-fsr-arduino-tutorial/
 ### Wurth Elektronik
 
 ### Mouser Electronics
+
+# Base de Données pour IA
+Fait avec le Leap Motion
+https://www.kaggle.com/datasets/gti-upm/leapgestrecog/
