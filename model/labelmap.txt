@@ -1,0 +1,13 @@
+poteau
+personne
+velo
+voiture
+piste_cyclable
+escaliers
+bus
+arret_de_bus
+arbre
+poubelle
+egout
+passage_pieton
+feuille
